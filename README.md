@@ -1,4 +1,6 @@
-# Modified Attribution License (MAL) v1.0  
+<img src="assets/mal-v1.0-white-logo.png" alt="MAL Logo" width="200">
+
+# Modified Attribution License (MAL) v1.0 
 
 The **Modified Attribution License (MAL) v1.0** is a permissive software license that allows full freedom to use, modify, and distribute software while ensuring proper attribution for unmodified versions. It also allows relicensing of modified versions, making it a flexible alternative to traditional open-source licenses.
 
