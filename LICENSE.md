@@ -1,3 +1,4 @@
+```
 Modified Attribution License (MAL) v1.0  
 Copyright (c) [YEAR] [YOUR NAME OR ORGANIZATION]  
 
@@ -22,3 +23,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 - This license does not grant any patent rights. By contributing modifications, you agree not to enforce any patent claims related to your modifications against users of this Software.  
 
 By using this Software, you agree to these terms.  
+```
