@@ -43,9 +43,20 @@ To use this license in your project:
    See the [LICENSE.md](./LICENSE.md) file for details.
    ```
 
+## 🏷️ MAL License Badge  
+
+Show your project is licensed under **MAL v1.0** by adding this badge to your README: 
+
+```
+https://img.shields.io/badge/License%3A%20MAL%20v1.0-forestgreen?style=plastic&color=forestgreen&link=https%3A%2F%2Flmarantes.github.io%2FModified-Attribution-License%2F
+```
+
 ## 📢 Want to Contribute?
+
 If you have suggestions to improve MAL or want to discuss licensing, feel free to open an issue in this repository.
 
 🔗 GitHub Repo: https://github.com/LMArantes/Modified-Attribution-License
 
 🔗 Website: https://LMArantes.github.io/Modified-Attribution-License
+
+[![License: MAL v1.0](https://img.shields.io/badge/License%3A%20MAL%20v1.0-forestgreen?style=plastic&color=forestgreen)](https://lmarantes.github.io/Modified-Attribution-License/)
