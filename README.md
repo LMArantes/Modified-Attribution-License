@@ -8,7 +8,7 @@ The **Modified Attribution License (MAL) v1.0** is a permissive software license
 
 **You Can:**  
 - Use, modify, and distribute the software.  
-- Sell or license both **original and modified versions** under any terms.  
+- Sell or license both original and modified versions under any terms.  
 - Include in open-source or proprietary projects.  
 
 **You Cannot:**  
@@ -20,7 +20,7 @@ The **Modified Attribution License (MAL) v1.0** is a permissive software license
 ## 📌 Key Features  
 
 - **Full Freedom:** Allows commercial and non-commercial use, distribution, and sublicensing.  
-- **Balanced Attribution:** Attribution is **required** for unmodified versions but optional for substantially modified versions.  
+- **Balanced Attribution:** Attribution is required for unmodified versions but optional for substantially modified versions.  
 - **Flexible Relicensing:** If modified, the resulting software can be relicensed under any terms.  
 - **License Persistence:** If unmodified portions of the software are included in a project, this license must be retained for those parts, even if other sections are relicensed.  
 - **Patent Clause for Protection:** Contributors agree not to enforce patent claims against users of modified versions.  
