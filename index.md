@@ -1,3 +1,5 @@
+<img src="assets/mal-v1.0-white-logo.png" alt="MAL Logo" width="200">
+
 # Modified Attribution License (MAL) v1.0  
 
 The **Modified Attribution License (MAL) v1.0** is a permissive software license that allows full freedom to use, modify, and distribute software while ensuring proper attribution for unmodified versions. It also allows relicensing of modified versions, making it a flexible alternative to traditional open-source licenses.
@@ -73,4 +75,5 @@ To use this license in your project:
 If you have suggestions to improve MAL or want to discuss licensing, feel free to open an issue in this repository.
 
 🔗 GitHub Repo: https://github.com/LMArantes/Modified-Attribution-License
+
 🔗 Website: https://LMArantes.github.io/Modified-Attribution-License
