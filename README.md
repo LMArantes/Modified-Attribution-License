@@ -47,4 +47,5 @@ To use this license in your project:
 If you have suggestions to improve MAL or want to discuss licensing, feel free to open an issue in this repository.
 
 🔗 GitHub Repo: https://github.com/LMArantes/Modified-Attribution-License
+
 🔗 Website: https://LMArantes.github.io/Modified-Attribution-License
