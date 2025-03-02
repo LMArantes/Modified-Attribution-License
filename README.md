@@ -37,6 +37,7 @@ To use this license in your project:
 
 1. **Download or copy `LICENSE.md`** and include it in your repository.  
 2. **Mention the license in your `README.md`**:
+
    ```md
    This project is licensed under the **Modified Attribution License (MAL) v1.0**.  
    See the [LICENSE.md](./LICENSE.md) file for details.
