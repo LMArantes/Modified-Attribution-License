@@ -1,5 +1,5 @@
 title: "Modified Attribution License (MAL) v1.0"
 description: "An open and flexible license allowing free use, distribution, modification, and commercialization with attribution rules."
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/slate@v0.2.0
 github:
   is_project_page: true
