@@ -12,13 +12,13 @@ An open and flexible software license allowing free use, modification, and comme
 ✅ **No restrictions on modified versions**  
 ❌ **Cannot remove original credit when redistributing the same code**  
 
-🔗 **GitHub Repo:** [yourusername/Modified-Attribution-License](https://github.com/yourusername/Modified-Attribution-License)
+🔗 **GitHub Repo:** [LMArantes/Modified-Attribution-License](https://github.com/LMArantes/Modified-Attribution-License)
 
 ---
 
 ## 📖 Full License Text  
 
-```plaintext
+```
 # Modified Attribution License (MAL) v1.0
 Copyright (c) [YEAR] [YOUR NAME OR ORGANIZATION]
 
