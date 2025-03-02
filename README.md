@@ -19,4 +19,4 @@ To use this license in your project:
 2. **Mention the license in your `README.md`**:
    ```md
    This project is licensed under the **Modified Attribution License (MAL) v1.0**.  
-   See the [LICENSE.md](./LICENSE) file for details.
+   See the [LICENSE](./LICENSE) file for details.
